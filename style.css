@@ -1,0 +1,21 @@
+body {
+    background-color: #555;
+    padding: 20px;
+}
+
+
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-container > div {
+    width: 300px;
+    padding: 20px;
+    background-color: burlywood;
+
+}
+
+h2 {
+    text-align: center;
+}
